@@ -1,4 +1,4 @@
-baseURL = 'jinyu.github.io'
+baseURL = 'https://jinyuli07.github.io/jinyu.github.io/'
 languageCode = 'en-us'
 title = 'Jinyu LI'
 theme = 'hugo-theme-red-rose-main'
