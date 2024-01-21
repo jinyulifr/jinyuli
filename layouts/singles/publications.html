@@ -1,5 +1,5 @@
 {{ define "main" }}
-	<main>
+	<html>
 		<head>
 		    <meta charset="utf-8">
 		    <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,7 +42,9 @@
 		        {{ end }}
 		    </title> 
 		</head>
-
+	</html>
+	
+	<main>
 		<nav class="crumbs">
   			<ol>
     			<li class="crumb"><a href="/">Home</a></li>
@@ -53,8 +55,8 @@
 		<h1 style="font-size: 38px" class="text-center">{{ .Title }}</h1><br>
 		{{ .Content }}
 		<br>
-		<a style="font-size: 18px" class="nav-link text-white text-center" href="/">Go back to Home</a>
-		<a style="font-size: 18px" class="nav-link text-white text-center" href="/cv">See my full CV</a>
+		<a style="font-size: 18px" class="nav-link text-white text-center" href="">Go back to Home</a>
+		<a style="font-size: 18px" class="nav-link text-white text-center" href="cv">See my full CV</a>
 		<br>
 		<br>
 	</main>
