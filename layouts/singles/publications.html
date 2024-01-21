@@ -1,4 +1,5 @@
-<head>
+{{ define "main" }}
+	<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Your description">
@@ -39,9 +40,8 @@
         {{ .Site.Title }}
         {{ end }}
     </title> 
-</head>
-
-{{ define "main" }}
+	</head>
+	
 	<main>
 		<nav class="crumbs">
   			<ol>
