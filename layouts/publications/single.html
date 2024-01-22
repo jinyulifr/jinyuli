@@ -1,0 +1,18 @@
+{{ define "main" }}
+	<main>
+		<nav class="crumbs">
+  			<ol>
+    			<li class="crumb"><a href="/">Home</a></li>
+    			<li class="crumb" style="color: grey">Publications</li>
+  			</ol>
+		</nav>
+		<br>
+		<h1 style="font-size: 38px" class="text-center">{{ .Title }}</h1><br>
+		{{ .Content }}
+		<br>
+		<a style="font-size: 18px" class="nav-link text-white text-center" href="">Go back to Home</a>
+		<a style="font-size: 18px" class="nav-link text-white text-center" href="cv">See my full CV</a>
+		<br>
+		<br>
+	</main>
+{{ end }}
