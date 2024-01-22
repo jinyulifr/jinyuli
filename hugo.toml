@@ -1,9 +1,8 @@
-baseURL = 'https://jinyuli07.github.io/jinyuli/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Jinyu LI'
 theme = 'hugo-theme-red-rose-main'
-
-
+relativeURLs = "True"
 
 [services]
   [services.googleAnalytics]

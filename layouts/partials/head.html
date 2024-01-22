@@ -19,10 +19,10 @@
     {{- end }}
 
     <!-- Bootstrap CSS -->
-    <link defer href="css/bootstrap.min.css" rel="stylesheet">
+    <link defer href="/css/bootstrap.min.css" rel="stylesheet" >
     
     <!-- Custom styles for this template -->
-    <link defer href="css/rose.css" rel="stylesheet">
+    <link defer href="/css/rose.css" rel="stylesheet">
 
     <!-- Fonts -->
     {{ $style := resources.Get "font.scss" | resources.ToCSS | resources.Fingerprint }}

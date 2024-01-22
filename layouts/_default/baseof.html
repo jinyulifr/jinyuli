@@ -6,13 +6,13 @@
 <body class="d-flex md h-100 container-sm text-white bg-dark"> 
 <div class="d-flex w-100 h-100 p-3 mx-auto flex-column">
 
-  {{- partial "header.html" . }}
+{{- partial "header.html" . }}
 
 <div id="content">
   {{- block "main" . }}{{ end }}
 </div>
 
-  {{- partial "footer.html" . }}
+{{- partial "footer.html" . }}
 
 </body>
 </html>
