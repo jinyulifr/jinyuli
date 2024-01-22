@@ -2,4 +2,10 @@ baseURL = 'https://jinyuli07.github.io/jinyuli/'
 languageCode = 'en-us'
 title = 'Jinyu LI'
 theme = 'hugo-theme-red-rose-main'
-google_analytics: = 'Jinyu LI'
+
+
+
+[services]
+  [services.googleAnalytics]
+    ID = 'Jinyu LI'
+
