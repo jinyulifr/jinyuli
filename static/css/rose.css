@@ -17,7 +17,7 @@ p {
 }
 /*layout size*/
 .container-sm {
-  max-width: 760px;
+  max-width: 1500px;
 } 
 
 /*backround color*/
@@ -40,7 +40,7 @@ img {
 
 .img-ava-signal {
   height: auto;
-  width: 218px;
+  width: 100%;
 }
 
 /*header/navbar*/
