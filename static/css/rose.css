@@ -17,7 +17,7 @@ p {
 }
 /*layout size*/
 .container-sm {
-  max-width: 1500px;
+  max-width: 100%;
 } 
 
 /*backround color*/
@@ -27,7 +27,8 @@ p {
 
 /*posts image*/
 img {
-  width: 100%;
+  max-width: 50%;
+  height: auto;
 }
 
 /*avatar/profile image*/
