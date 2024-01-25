@@ -43,9 +43,9 @@ img {
   margin-bottom: 3px;
 }
 
-.img-ava-signal {
-  height: auto;
-  width: 100%;
+.img-ava-photo {
+  max-width: 10%;
+  max-height: 10%;
 }
 
 /*header/navbar*/
