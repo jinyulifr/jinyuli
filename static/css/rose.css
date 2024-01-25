@@ -154,3 +154,7 @@ html {
 body {
   width: 100%;
 }
+
+.custom-line-spacing {
+    line-height: 2; /* You can adjust this value */
+}
