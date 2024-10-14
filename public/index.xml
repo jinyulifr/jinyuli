@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinyu LI</title>
+    <link>/</link>
+    <description>Recent content on Jinyu LI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speech rhythm as a coordinative system</title>
+      <link>/rhythm/</link>
+      <pubDate>Mon, 22 Jan 2024 21:31:51 +0100</pubDate>
+      <guid>/rhythm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>/email/</link>
+      <pubDate>Sun, 21 Jan 2024 14:36:43 +0100</pubDate>
+      <guid>/email/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My PhD Dissertation</title>
+      <link>/phd/</link>
+      <pubDate>Sun, 21 Jan 2024 01:43:42 +0100</pubDate>
+      <guid>/phd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>More about me</title>
+      <link>/more/</link>
+      <pubDate>Sat, 20 Jan 2024 18:50:47 +0100</pubDate>
+      <guid>/more/</guid>
+      <description>I&amp;rsquo;m a photohraphy amateur. I like walking around in cities with my camera.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>/cv/</link>
+      <pubDate>Sat, 20 Jan 2024 18:50:28 +0100</pubDate>
+      <guid>/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Sat, 20 Jan 2024 18:50:06 +0100</pubDate>
+      <guid>/publications/</guid>
+      <description>International communication [2023] Are you sure it’s your voice? Exploring the relations between phonetic alignment and sense of agency (9th Joint Action Meeting, Budapest, Hungary)&#xA;Jinyu Li and Leonardo Lancia&#xA;[2023] How speech rate, syllabic complexity and diversity affect the emergence of speech rhythm in speeded syllable repetition (20th International Congress of Phonetic Sciences, Prague, Czech Republic)&#xA;Leonardo Lancia, Jinyu Li&#xA;[2022] Effects of delayed auditory feedback interacting with prosodic structure (Speech Prosody, Lisbon, Portugal)</description>
+    </item>
+  </channel>
+</rss>
