@@ -48,6 +48,76 @@ img {
   max-height: 100%;
 }
 
+.button {
+            background-color: rgba(102, 51, 153, 0.1); /* Green background */
+            border: none; /* No borders */
+            color: gba(102, 51, 153);
+            padding: 5px 20px; /* Padding */
+            text-align: center; /* Centered text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Make the link like a button */
+            font-size: 18px; /* Text size */
+            font-family: Arial;
+            font-weight: 700; /*bold*/
+            margin: 10px 8px; /* Margin */
+            cursor: pointer; /* Pointer cursor on hover */
+            border-radius: 8px; /* Rounded corners */
+        }
+
+.button:hover {
+            background-color: rgba(102, 51, 153, 0.3);
+        }
+
+/*border*/
+        .solid-border {
+            border: 2px solid black;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .dashed-border {
+            border: 2px dashed blue;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .dotted-border {
+            border: 2px dotted green;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .double-border {
+            border: 4px double red;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .groove-border {
+            border: 4px groove rebeccapurple;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .ridge-border {
+            border: 4px ridge orange;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .inset-border {
+            border: 4px inset gray;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+        .outset-border {
+            border: 4px outset teal;
+            padding: 10px;
+            margin: 10px auto;
+        }
+
+
 /*header/navbar*/
 .head-rose {
   color: white;

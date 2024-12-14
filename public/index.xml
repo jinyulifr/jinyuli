@@ -8,6 +8,27 @@
     <language>en-us</language>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Speech rhythm as a coordinative system stabilizing speech production in auditory feedback perturbations</title>
+      <link>/2024issp/</link>
+      <pubDate>Sat, 26 Oct 2024 22:26:38 +0200</pubDate>
+      <guid>/2024issp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A multimodal approach to study the nature of coordinative patterns underlying speech rhythm</title>
+      <link>/2024interspeech/</link>
+      <pubDate>Sat, 26 Oct 2024 22:16:48 +0200</pubDate>
+      <guid>/2024interspeech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How Rhythm Stabilizes Speech Production: Adaptation of Coordinative Rhythmic Patterns in Sensorimotor Control Processes</title>
+      <link>/jphon2024/</link>
+      <pubDate>Sat, 26 Oct 2024 21:03:25 +0200</pubDate>
+      <guid>/jphon2024/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Speech rhythm as a coordinative system</title>
       <link>/rhythm/</link>
       <pubDate>Mon, 22 Jan 2024 21:31:51 +0100</pubDate>
@@ -29,11 +50,11 @@
       <description></description>
     </item>
     <item>
-      <title>More about me</title>
+      <title>More</title>
       <link>/more/</link>
       <pubDate>Sat, 20 Jan 2024 18:50:47 +0100</pubDate>
       <guid>/more/</guid>
-      <description>I&amp;rsquo;m a photohraphy amateur. I like walking around in cities with my camera.</description>
+      <description></description>
     </item>
     <item>
       <title>CV</title>
@@ -47,7 +68,7 @@
       <link>/publications/</link>
       <pubDate>Sat, 20 Jan 2024 18:50:06 +0100</pubDate>
       <guid>/publications/</guid>
-      <description>International communication [2023] Are you sure it’s your voice? Exploring the relations between phonetic alignment and sense of agency (9th Joint Action Meeting, Budapest, Hungary)&#xA;Jinyu Li and Leonardo Lancia&#xA;[2023] How speech rate, syllabic complexity and diversity affect the emergence of speech rhythm in speeded syllable repetition (20th International Congress of Phonetic Sciences, Prague, Czech Republic)&#xA;Leonardo Lancia, Jinyu Li&#xA;[2022] Effects of delayed auditory feedback interacting with prosodic structure (Speech Prosody, Lisbon, Portugal)</description>
+      <description></description>
     </item>
   </channel>
 </rss>
