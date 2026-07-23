@@ -19,7 +19,8 @@
     <link defer href="/css/rose.css" rel="stylesheet">
 
     <!-- Fonts -->
-    {{ $style := resources.Get "font.scss" | css.Sass | fingerprint }}
+    <!-- {{ $style := resources.Get "font.scss" | css.Sass | fingerprint }} -->
+    {{ $style := resources.Get "font.scss" | toCSS | fingerprint }}
     <link defer rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ .Data.Integrity }}">
 
     <!-- Tab info -->
