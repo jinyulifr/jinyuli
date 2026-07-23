@@ -1,74 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jinyu LI</title>
-    <link>/</link>
-    <description>Recent content on Jinyu LI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Speech rhythm as a coordinative system stabilizing speech production in auditory feedback perturbations</title>
-      <link>/2024issp/</link>
-      <pubDate>Sat, 26 Oct 2024 22:26:38 +0200</pubDate>
-      <guid>/2024issp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A multimodal approach to study the nature of coordinative patterns underlying speech rhythm</title>
-      <link>/2024interspeech/</link>
-      <pubDate>Sat, 26 Oct 2024 22:16:48 +0200</pubDate>
-      <guid>/2024interspeech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How Rhythm Stabilizes Speech Production: Adaptation of Coordinative Rhythmic Patterns in Sensorimotor Control Processes</title>
-      <link>/jphon2024/</link>
-      <pubDate>Sat, 26 Oct 2024 21:03:25 +0200</pubDate>
-      <guid>/jphon2024/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Speech rhythm as a coordinative system</title>
-      <link>/rhythm/</link>
-      <pubDate>Mon, 22 Jan 2024 21:31:51 +0100</pubDate>
-      <guid>/rhythm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact me</title>
-      <link>/email/</link>
-      <pubDate>Sun, 21 Jan 2024 14:36:43 +0100</pubDate>
-      <guid>/email/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My PhD Dissertation</title>
-      <link>/phd/</link>
-      <pubDate>Sun, 21 Jan 2024 01:43:42 +0100</pubDate>
-      <guid>/phd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>More</title>
-      <link>/more/</link>
-      <pubDate>Sat, 20 Jan 2024 18:50:47 +0100</pubDate>
-      <guid>/more/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CV</title>
-      <link>/cv/</link>
-      <pubDate>Sat, 20 Jan 2024 18:50:28 +0100</pubDate>
-      <guid>/cv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Sat, 20 Jan 2024 18:50:06 +0100</pubDate>
-      <guid>/publications/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Jinyu LI</title>
+		<link>//localhost:1313/</link>
+		<description>Recent content on Jinyu LI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 12 Dec 2024 23:56:50 +0100</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Influence of Auditory Feedback Alterations on Speech Temporal Patterns</title>
+				<link>//localhost:1313/2024exling/</link>
+				<pubDate>Thu, 12 Dec 2024 23:56:50 +0100</pubDate>
+				<guid>//localhost:1313/2024exling/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Are you sure it’s your voice? Exploring the relations between phonetic alignment and sense of agency</title>
+				<link>//localhost:1313/2023jam/</link>
+				<pubDate>Thu, 12 Dec 2024 23:36:55 +0100</pubDate>
+				<guid>//localhost:1313/2023jam/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A multimodal approach to study the nature of coordinative patterns underlying speech rhythm</title>
+				<link>//localhost:1313/2024interspeech/</link>
+				<pubDate>Sat, 26 Oct 2024 22:16:48 +0200</pubDate>
+				<guid>//localhost:1313/2024interspeech/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>How Rhythm Stabilizes Speech Production: Adaptation of Coordinative Rhythmic Patterns in Sensorimotor Control Processes</title>
+				<link>//localhost:1313/jphon2024/</link>
+				<pubDate>Sat, 26 Oct 2024 21:03:25 +0200</pubDate>
+				<guid>//localhost:1313/jphon2024/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Speech rhythm as a coordinative system</title>
+				<link>//localhost:1313/rhythm/</link>
+				<pubDate>Mon, 22 Jan 2024 21:31:51 +0100</pubDate>
+				<guid>//localhost:1313/rhythm/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Contact me</title>
+				<link>//localhost:1313/email/</link>
+				<pubDate>Sun, 21 Jan 2024 14:36:43 +0100</pubDate>
+				<guid>//localhost:1313/email/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>My PhD Dissertation</title>
+				<link>//localhost:1313/phd/</link>
+				<pubDate>Sun, 21 Jan 2024 01:43:42 +0100</pubDate>
+				<guid>//localhost:1313/phd/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>My Teaching</title>
+				<link>//localhost:1313/teaching/</link>
+				<pubDate>Sun, 21 Jan 2024 01:43:42 +0100</pubDate>
+				<guid>//localhost:1313/teaching/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>More</title>
+				<link>//localhost:1313/more/</link>
+				<pubDate>Sat, 20 Jan 2024 18:50:47 +0100</pubDate>
+				<guid>//localhost:1313/more/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>CV</title>
+				<link>//localhost:1313/cv/</link>
+				<pubDate>Sat, 20 Jan 2024 18:50:28 +0100</pubDate>
+				<guid>//localhost:1313/cv/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Publications</title>
+				<link>//localhost:1313/publications/</link>
+				<pubDate>Sat, 20 Jan 2024 18:50:06 +0100</pubDate>
+				<guid>//localhost:1313/publications/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
